@@ -12,4 +12,7 @@
 #define ESCTwoPin 10
 #define SolenoidPin 12
 
+#define DisplaySDA 1
+#define DisplaySCL 2
+
 #endif
